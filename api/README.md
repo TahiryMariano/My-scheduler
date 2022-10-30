@@ -1,4 +1,4 @@
-# Awesome Project Build with TypeORM
+# Task Scheduler API build with Express JS, TypeORM, Postgress
 
 Steps to run this project:
 
